@@ -1,0 +1,13 @@
+h1,h2 {
+   font-weight: bold;
+   text-align: center;
+   color: rgb(37, 34, 34);
+}
+
+h1 {
+   font-size: 1.5rem;
+}
+
+h2 {
+   font-size: 3rem;
+}
